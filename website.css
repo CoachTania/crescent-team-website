@@ -1,0 +1,21 @@
+
+  .bg-img{
+    background-image: url("https://cdn.mos.cms.futurecdn.net/L8exumuVUaJatGHCPDRuQm.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    
+  
+  }
+  .bu{
+    background-color:#4e5d6cb5;
+    padding: 50px;
+  }
+  .gu{
+    padding: 50px;
+  }
+
+.images-container{
+text-align: center;
+}
